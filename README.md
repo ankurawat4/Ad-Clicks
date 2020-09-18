@@ -4,4 +4,5 @@ This Project indicating whether or not a particular user Clicked on a Advertisem
 First doing some EDA Work on Data.
 some of the evaluations :
  
- ![alt text](https://github.com/ankurawat/Ad_Clicks/blob/master/Figure_1.png)
+ Daily_Internet_Usage of Male and Female
+ ![alt text]( https://github.com/ankurawat4/Ad-Clicks/blob/master/Fig_1.png)
