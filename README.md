@@ -21,6 +21,6 @@ Age Distribution of Users
 
 
 # Classification report
- ![alt text]( https://github.com/ankurawat4/Ad-Clicks/blob/master/Fig_5.png)
+ ![alt text]( https://github.com/ankurawat4/Ad-Clicks/blob/master/Fig_6.png)
  
- Accuracy : 0.97
+ Accuracy : 0.90
