@@ -1,7 +1,7 @@
 # Ad-Clicks
 This Project indicating whether or not a particular user Clicked on a Advertisement on company's website. This Project uses Logistic Regression Model to predict whether a user will click or not on an AD based off the features of that user.
 
-First doing some EDA Work on Data.
+EDA Work on Data. <br>
 Some of the evaluations :
  
  Daily_Internet_Usage Distribution of Male and Female
